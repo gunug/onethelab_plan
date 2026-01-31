@@ -24,6 +24,7 @@ onethelab_plan/
     ├── 미니게임 모음형 CPI 공유 전략.md
     ├── Simon Tatham's Puzzles 수익 구조 분석.md
     ├── 게임 엔진 CLI 비교 - Claude Code 연동 관점.md
+    ├── 배너 광고에 적합한 게임 장르 분석.md
     └── .obsidian/
         ├── app.json
         ├── appearance.json
@@ -86,5 +87,9 @@ onethelab_plan/
 - **변경 내용**: 게임 엔진 CLI 비교 - Claude Code 연동 관점.md 파일 생성
 - **관련 파일**: plan_obsidian/게임 엔진 CLI 비교 - Claude Code 연동 관점.md
 - **설명**: 게임 엔진별 CLI 지원 현황 및 Claude Code 연동 가능성 비교 분석 - Godot, Unity, Defold, Cocos Creator, Unreal Engine 5개 엔진 비교, Godot을 1위로 추천
+
+- **변경 내용**: 배너 광고에 적합한 게임 장르 분석.md 파일 생성
+- **관련 파일**: plan_obsidian/배너 광고에 적합한 게임 장르 분석.md
+- **설명**: 배너 광고에 유효한 게임 장르 분석 - 아이들/클리커, 퍼즐, 단어 게임 등 장르별 적합도, 세션 시간, 수익 구조, 광고 믹스 전략 정리
 
 ---
