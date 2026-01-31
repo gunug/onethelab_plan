@@ -23,6 +23,7 @@ onethelab_plan/
     ├── 배너 광고 CPI와 LTV 분석.md
     ├── 미니게임 모음형 CPI 공유 전략.md
     ├── Simon Tatham's Puzzles 수익 구조 분석.md
+    ├── 게임 엔진 CLI 비교 - Claude Code 연동 관점.md
     └── .obsidian/
         ├── app.json
         ├── appearance.json
@@ -81,5 +82,9 @@ onethelab_plan/
 - **변경 내용**: README.md 파일 생성
 - **관련 파일**: README.md
 - **설명**: 프로젝트 개요, 폴더 구조, 사용 방법을 설명하는 메인 README 문서 생성
+
+- **변경 내용**: 게임 엔진 CLI 비교 - Claude Code 연동 관점.md 파일 생성
+- **관련 파일**: plan_obsidian/게임 엔진 CLI 비교 - Claude Code 연동 관점.md
+- **설명**: 게임 엔진별 CLI 지원 현황 및 Claude Code 연동 가능성 비교 분석 - Godot, Unity, Defold, Cocos Creator, Unreal Engine 5개 엔진 비교, Godot을 1위로 추천
 
 ---
