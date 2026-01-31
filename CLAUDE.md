@@ -74,4 +74,8 @@ onethelab_plan/
 - **관련 파일**: plan_obsidian/Simon Tatham's Puzzles 수익 구조 분석.md
 - **설명**: Simon Tatham's Portable Puzzle Collection Android 앱의 비수익 모델 분석 - 완전 무료/광고 없음/오픈소스 전략, 100만+ 다운로드, 4.93 평점
 
+- **변경 내용**: GitHub 저장소 생성 및 업로드
+- **관련 파일**: 전체 프로젝트
+- **설명**: Git 초기화 및 GitHub public 저장소 생성 - https://github.com/gunug/onethelab_plan
+
 ---
