@@ -78,4 +78,8 @@ onethelab_plan/
 - **관련 파일**: 전체 프로젝트
 - **설명**: Git 초기화 및 GitHub public 저장소 생성 - https://github.com/gunug/onethelab_plan
 
+- **변경 내용**: README.md 파일 생성
+- **관련 파일**: README.md
+- **설명**: 프로젝트 개요, 폴더 구조, 사용 방법을 설명하는 메인 README 문서 생성
+
 ---
